@@ -1,0 +1,5 @@
+<resources>
+    <string name="hello_world">This is the full version!</string>
+
+    <string name="title_activity_second">SecondActivity (Full)</string>
+</resources>

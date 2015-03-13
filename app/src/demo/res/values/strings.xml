@@ -1,0 +1,5 @@
+<resources>
+    <string name="hello_world">Demo version only.</string>
+
+    <string name="title_activity_second">SecondActivity (Demo)</string>
+</resources>
